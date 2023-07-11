@@ -2,7 +2,7 @@
 
 flutter_hive_demo
 
-This project is simple demo to help learners understand Hive.
+This project is simple demo of Hive to help learners understand Hive.
 
 
 
